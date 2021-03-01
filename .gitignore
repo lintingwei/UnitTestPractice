@@ -4,3 +4,19 @@ UnitTestPractice/.vs/UnitTestPractice/v16/
 UnitTestPractice/UnitTestPractice/obj/Debug/netcoreapp3.1/
 
 *.cache
+
+UnitTestPractice/.vs/UnitTestPractice/DesignTimeBuild/
+
+*.dll
+
+*.json
+
+*.pdb
+
+*.tmp
+
+*.CopyComplete
+
+UnitTestPractice/LogAnalyzerTests/obj/Debug/netcoreapp3.1/UnitTestPracticeTests.csproj.FileListAbsolute.txt
+
+UnitTestPractice/LogAnalyzerTests/obj/Debug/netcoreapp3.1/LogAnalyzerTests.csproj.FileListAbsolute.txt
